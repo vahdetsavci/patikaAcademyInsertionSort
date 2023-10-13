@@ -48,7 +48,7 @@
 n*(n + 1) / 2 = n^2 + 1 / 2 = O(n^2)
 ```
 
-![Big-O](InsertionSortProject.png)
+![Big-O](Big-O.png)
 
 ---
 
